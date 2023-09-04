@@ -1,4 +1,4 @@
-package com.christer.project.utils;
+package com.christer.project.util;
 
 import org.springframework.beans.BeanUtils;
 
