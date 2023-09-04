@@ -1,4 +1,4 @@
-package com.christer.springboottemplate.utils;
+package com.christer.project.utils;
 
 /**
  * @author Christer

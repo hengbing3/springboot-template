@@ -1,4 +1,4 @@
-package com.christer.springboottemplate.common;
+package com.christer.project.common;
 
 import lombok.Getter;
 import lombok.Setter;

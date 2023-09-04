@@ -1,6 +1,6 @@
-package com.christer.springboottemplate.exception;
+package com.christer.project.exception;
 
-import com.christer.springboottemplate.common.ResultCode;
+import com.christer.project.common.ResultCode;
 
 /**
  * @author Christer

@@ -1,8 +1,8 @@
-package com.christer.springboottemplate.exception;
+package com.christer.project.exception;
 
-import com.christer.springboottemplate.common.CommonResult;
-import com.christer.springboottemplate.common.ResultBody;
-import com.christer.springboottemplate.common.ResultCode;
+import com.christer.project.common.CommonResult;
+import com.christer.project.common.ResultBody;
+import com.christer.project.common.ResultCode;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.validation.BindException;
 import org.springframework.validation.BindingResult;
